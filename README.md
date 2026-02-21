@@ -323,6 +323,8 @@ To browse the entire ecosystem through the unified **"Magic Sync" Portal**:
     ```
 3.  Open `index.html` in your browser (utilizing a local server like **Live Server** for full functionality).
 
+### 5. Benchmark Reference Table
+
 > [!TIP]
 > ### Unified Ecosystem Simulation | Magic Sync Portal Hub
 >
@@ -330,9 +332,6 @@ To browse the entire ecosystem through the unified **"Magic Sync" Portal**:
 >
 > [**Launch Central Portal on GitHub Pages**](https://amey-thakur.github.io/JAVASCRIPT-FRAMEWORKS-TODO-APPS/)
 
----
-
-### 5. Benchmark Reference Table
 
 | Implementation | Type | Command | Port | Live |
 |----------------|------|---------|------|------|
